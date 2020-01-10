@@ -1,0 +1,52 @@
+﻿  main.cpp
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\calibration.h(33): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\calibration.h(117): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\calibration.h(118): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\GrabImage.h(62): warning C4018: '<': signed/unsigned mismatch
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\GrabImage.h(271): warning C4018: '<': signed/unsigned mismatch
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(114): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(133): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(134): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(135): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(136): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(143): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(144): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(145): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(146): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(163): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(164): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(178): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(179): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(180): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(181): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(195): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(196): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(218): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(219): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(226): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(227): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(235): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(236): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(244): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(245): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(253): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(254): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(294): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(296): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(297): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\pg_one\technology_of_surveying\project_design\vision_measurement\vision_measurement\size_detection.h(298): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 1143 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  vision_measurement.vcxproj -> E:\pg_one\Technology_of_surveying\project_design\vision_measurement\x64\Release\vision_measurement.exe
+  vision_measurement.vcxproj -> E:\pg_one\Technology_of_surveying\project_design\vision_measurement\x64\Release\vision_measurement.pdb (Full PDB)

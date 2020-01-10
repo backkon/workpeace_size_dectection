@@ -1,0 +1,474 @@
+[2019-12-23 13:07:22:0423] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 13:07:22:0423] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 13:07:22:0423] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 13:07:22:0424] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 13:07:22:0424] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[63288], devIP[a9fe5400]
+[2019-12-23 13:07:22:0426] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 13:07:22:0426] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 13:07:22:0438] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 13:07:22:0840] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 13:07:23:0045] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[4048]
+[2019-12-23 16:04:06:0331] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:04:06:0331] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:04:06:0331] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:04:06:0331] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:04:06:0331] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[62376], devIP[a9fe5400]
+[2019-12-23 16:04:06:0333] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:04:06:0333] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:04:06:0345] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:04:06:0793] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:04:06:0992] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[3864]
+[2019-12-23 16:04:07:0222] | GigEVisionManager.cpp-L4554: Lost Frame From Net[13709], Total Frame Count[13710], NetCount[1], CurBlock[13710], LastBlock[0]
+[2019-12-23 16:04:07:0424] | GigEVisionManager.cpp-L4571: throw frame from list[2], CurFrameNum[13713], LastFrame[13710]
+[2019-12-23 16:04:10:0621] | GigEVisionManager.cpp-L4571: throw frame from list[13], CurFrameNum[13756], LastFrame[13744]
+[2019-12-23 16:08:34:0578] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:08:34:0578] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:08:34:0578] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:08:34:0578] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:08:34:0578] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[57799], devIP[a9fe5400]
+[2019-12-23 16:08:34:0580] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:08:34:0580] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:08:34:0589] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:08:34:0927] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:08:35:0066] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[10360]
+[2019-12-23 16:08:35:0240] | GigEVisionManager.cpp-L4554: Lost Frame From Net[16145], Total Frame Count[16146], NetCount[1], CurBlock[16146], LastBlock[0]
+[2019-12-23 16:08:43:0429] | GigEVisionManager.cpp-L4571: throw frame from list[8], CurFrameNum[16257], LastFrame[16248]
+[2019-12-23 16:11:37:0628] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:11:37:0628] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:11:37:0629] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:11:37:0629] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:11:37:0629] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[62895], devIP[a9fe5400]
+[2019-12-23 16:11:37:0632] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:11:37:0632] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:11:37:0643] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:11:37:0995] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:11:38:0136] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[12988]
+[2019-12-23 16:11:38:0311] | GigEVisionManager.cpp-L4554: Lost Frame From Net[17107], Total Frame Count[17108], NetCount[1], CurBlock[17108], LastBlock[0]
+[2019-12-23 16:17:34:0213] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:17:34:0213] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:17:34:0213] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:17:34:0213] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:17:34:0214] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[63529], devIP[a9fe5400]
+[2019-12-23 16:17:34:0220] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:17:34:0222] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:17:34:0222] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:17:34:0223] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:17:34:0223] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:17:56:0020] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:17:56:0020] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:17:56:0020] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:17:56:0021] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:17:56:0021] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[55584], devIP[a9fe5400]
+[2019-12-23 16:17:56:0026] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:17:56:0028] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:17:56:0028] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:17:56:0029] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:17:56:0029] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:18:35:0117] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:18:35:0117] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:18:35:0117] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:18:35:0117] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:18:35:0117] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[53398], devIP[a9fe5400]
+[2019-12-23 16:18:35:0120] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:18:35:0120] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:18:35:0130] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:18:35:0447] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:18:35:0682] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[13440]
+[2019-12-23 16:18:35:0925] | GigEVisionManager.cpp-L4554: Lost Frame From Net[20864], Total Frame Count[20865], NetCount[1], CurBlock[20865], LastBlock[0]
+[2019-12-23 16:18:36:0049] | GigEVisionManager.cpp-L4571: throw frame from list[1], CurFrameNum[20867], LastFrame[20865]
+[2019-12-23 16:18:38:0361] | GigEVisionManager.cpp-L4571: throw frame from list[9], CurFrameNum[20899], LastFrame[20890]
+[2019-12-23 16:22:54:0740] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:22:54:0740] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:22:54:0740] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:22:54:0741] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:22:54:0741] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[53304], devIP[a9fe5400]
+[2019-12-23 16:22:54:0742] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:22:54:0742] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:22:54:0754] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:22:55:0142] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:22:55:0303] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[19084]
+[2019-12-23 16:22:55:0477] | GigEVisionManager.cpp-L4554: Lost Frame From Net[21746], Total Frame Count[21747], NetCount[1], CurBlock[21747], LastBlock[0]
+[2019-12-23 16:25:05:0265] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:25:05:0265] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:25:05:0265] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:05:0265] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:05:0265] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[49335], devIP[a9fe5400]
+[2019-12-23 16:25:05:0272] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:25:05:0273] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:25:05:0273] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:25:05:0275] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:25:05:0275] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:25:17:0650] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:25:17:0650] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:25:17:0650] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:17:0650] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:17:0650] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[49348], devIP[a9fe5400]
+[2019-12-23 16:25:17:0657] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:25:17:0658] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:25:17:0658] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:25:17:0659] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:25:17:0659] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:25:55:0083] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:25:55:0083] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:25:55:0083] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:55:0083] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:55:0083] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[52377], devIP[a9fe5400]
+[2019-12-23 16:25:55:0085] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:25:55:0085] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:55:0096] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:25:55:0521] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:25:55:0658] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[18188]
+[2019-12-23 16:25:55:0836] | GigEVisionManager.cpp-L4554: Lost Frame From Net[23971], Total Frame Count[23972], NetCount[1], CurBlock[23972], LastBlock[0]
+[2019-12-23 16:35:28:0710] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:35:28:0710] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:35:28:0710] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:35:28:0710] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:35:28:0710] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[53851], devIP[a9fe5400]
+[2019-12-23 16:35:28:0712] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:35:28:0712] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:35:28:0723] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:35:28:0956] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:35:29:0061] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[19124]
+[2019-12-23 16:35:29:0235] | GigEVisionManager.cpp-L4554: Lost Frame From Net[24823], Total Frame Count[24824], NetCount[1], CurBlock[24824], LastBlock[0]
+[2019-12-23 16:39:13:0970] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:39:13:0970] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:39:13:0971] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:13:0971] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:13:0971] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[49498], devIP[a9fe5400]
+[2019-12-23 16:39:13:0973] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:39:13:0973] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:13:0984] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:39:14:0277] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:14:0404] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[15016]
+[2019-12-23 16:39:14:0578] | GigEVisionManager.cpp-L4554: Lost Frame From Net[25656], Total Frame Count[25657], NetCount[1], CurBlock[25657], LastBlock[0]
+[2019-12-23 16:39:24:0565] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:39:24:0565] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:39:24:0566] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:24:0566] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:24:0566] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[53855], devIP[a9fe5400]
+[2019-12-23 16:39:24:0572] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:39:24:0573] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:39:24:0573] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:39:24:0574] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:39:24:0574] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:39:34:0719] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:39:34:0719] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:39:34:0719] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:34:0719] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:39:34:0719] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[61864], devIP[a9fe5400]
+[2019-12-23 16:39:34:0725] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 16:39:34:0726] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 16:39:34:0726] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 16:39:34:0727] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 16:39:34:0727] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 16:41:09:0014] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:41:09:0014] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:41:09:0014] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:41:09:0014] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:41:09:0014] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[52970], devIP[a9fe5400]
+[2019-12-23 16:41:09:0016] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:41:09:0016] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:41:09:0027] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:41:09:0316] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:41:09:0419] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[17948]
+[2019-12-23 16:41:09:0593] | GigEVisionManager.cpp-L4554: Lost Frame From Net[26489], Total Frame Count[26490], NetCount[1], CurBlock[26490], LastBlock[0]
+[2019-12-23 16:48:48:0475] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:48:48:0475] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:48:48:0475] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:48:48:0475] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:48:48:0475] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[64488], devIP[a9fe5400]
+[2019-12-23 16:48:48:0477] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:48:48:0477] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:48:48:0488] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:48:48:0730] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:48:48:0835] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[12100]
+[2019-12-23 16:48:49:0007] | GigEVisionManager.cpp-L4554: Lost Frame From Net[27355], Total Frame Count[27356], NetCount[1], CurBlock[27356], LastBlock[0]
+[2019-12-23 16:56:58:0987] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:56:58:0987] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:56:58:0987] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:56:58:0987] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:56:58:0987] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[56109], devIP[a9fe5400]
+[2019-12-23 16:56:58:0989] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:56:58:0989] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:56:59:0000] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:56:59:0270] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:56:59:0382] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[19556]
+[2019-12-23 16:56:59:0555] | GigEVisionManager.cpp-L4554: Lost Frame From Net[28188], Total Frame Count[28189], NetCount[1], CurBlock[28189], LastBlock[0]
+[2019-12-23 16:57:03:0918] | GigEVisionManager.cpp-L4571: throw frame from list[7], CurFrameNum[28248], LastFrame[28240]
+[2019-12-23 16:58:07:0098] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 16:58:07:0098] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 16:58:07:0098] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:58:07:0098] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:58:07:0098] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[52364], devIP[a9fe5400]
+[2019-12-23 16:58:07:0099] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 16:58:07:0099] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:58:07:0110] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 16:58:07:0328] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 16:58:07:0432] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[10468]
+[2019-12-23 16:58:07:0605] | GigEVisionManager.cpp-L4554: Lost Frame From Net[29103], Total Frame Count[29104], NetCount[1], CurBlock[29104], LastBlock[0]
+[2019-12-23 17:03:52:0773] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:03:52:0773] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:03:52:0773] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:03:52:0773] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:03:52:0773] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[53543], devIP[a9fe5400]
+[2019-12-23 17:03:52:0779] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:03:52:0780] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:03:52:0780] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:03:52:0781] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:03:52:0781] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:04:10:0276] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:04:10:0276] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:04:10:0276] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:10:0276] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:10:0276] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[61495], devIP[a9fe5400]
+[2019-12-23 17:04:10:0283] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:04:10:0284] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:04:10:0284] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:04:10:0285] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:04:10:0285] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:04:40:0917] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:04:40:0917] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:04:40:0917] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:40:0917] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:40:0917] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[63269], devIP[a9fe5400]
+[2019-12-23 17:04:40:0919] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:04:40:0919] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:40:0930] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:04:41:0185] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:04:41:0293] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[12892]
+[2019-12-23 17:04:41:0467] | GigEVisionManager.cpp-L4554: Lost Frame From Net[32912], Total Frame Count[32913], NetCount[1], CurBlock[32913], LastBlock[0]
+[2019-12-23 17:04:43:0688] | GigEVisionManager.cpp-L4571: throw frame from list[1], CurFrameNum[32943], LastFrame[32941]
+[2019-12-23 17:04:46:0867] | GigEVisionManager.cpp-L4571: throw frame from list[7], CurFrameNum[32986], LastFrame[32979]
+[2019-12-23 17:05:57:0937] | GigEVisionManager.cpp-L4571: throw frame from list[9], CurFrameNum[33952], LastFrame[33949]
+[2019-12-23 17:05:58:0038] | GigEVisionManager.cpp-L4571: throw frame from list[10], CurFrameNum[33954], LastFrame[33952]
+[2019-12-23 17:06:00:0016] | GigEVisionManager.cpp-L4571: throw frame from list[14], CurFrameNum[33980], LastFrame[33975]
+[2019-12-23 17:06:01:0894] | GigEVisionManager.cpp-L4571: throw frame from list[23], CurFrameNum[34006], LastFrame[33996]
+[2019-12-23 17:06:03:0360] | GigEVisionManager.cpp-L4571: throw frame from list[25], CurFrameNum[34026], LastFrame[34023]
+[2019-12-23 17:06:05:0525] | GigEVisionManager.cpp-L4571: throw frame from list[26], CurFrameNum[34055], LastFrame[34053]
+[2019-12-23 17:06:05:0625] | GigEVisionManager.cpp-L4571: throw frame from list[27], CurFrameNum[34057], LastFrame[34055]
+[2019-12-23 17:06:06:0204] | GigEVisionManager.cpp-L4571: throw frame from list[29], CurFrameNum[34065], LastFrame[34062]
+[2019-12-23 17:06:06:0853] | GigEVisionManager.cpp-L4571: throw frame from list[30], CurFrameNum[34073], LastFrame[34071]
+[2019-12-23 17:06:06:0952] | GigEVisionManager.cpp-L4571: throw frame from list[31], CurFrameNum[34075], LastFrame[34073]
+[2019-12-23 17:06:07:0436] | GigEVisionManager.cpp-L4571: throw frame from list[33], CurFrameNum[34081], LastFrame[34078]
+[2019-12-23 17:06:07:0525] | GigEVisionManager.cpp-L4571: throw frame from list[34], CurFrameNum[34083], LastFrame[34081]
+[2019-12-23 17:06:07:0984] | GigEVisionManager.cpp-L4571: throw frame from list[36], CurFrameNum[34089], LastFrame[34086]
+[2019-12-23 17:06:08:0395] | GigEVisionManager.cpp-L4571: throw frame from list[38], CurFrameNum[34094], LastFrame[34091]
+[2019-12-23 17:06:08:0486] | GigEVisionManager.cpp-L4571: throw frame from list[39], CurFrameNum[34096], LastFrame[34094]
+[2019-12-23 17:06:08:0750] | GigEVisionManager.cpp-L4571: throw frame from list[40], CurFrameNum[34099], LastFrame[34097]
+[2019-12-23 17:06:09:0103] | GigEVisionManager.cpp-L4571: throw frame from list[43], CurFrameNum[34104], LastFrame[34100]
+[2019-12-23 17:06:09:0439] | GigEVisionManager.cpp-L4571: throw frame from list[46], CurFrameNum[34109], LastFrame[34105]
+[2019-12-23 17:06:09:0782] | GigEVisionManager.cpp-L4571: throw frame from list[48], CurFrameNum[34113], LastFrame[34110]
+[2019-12-23 17:06:10:0131] | GigEVisionManager.cpp-L4571: throw frame from list[50], CurFrameNum[34118], LastFrame[34115]
+[2019-12-23 17:06:10:0456] | GigEVisionManager.cpp-L4571: throw frame from list[52], CurFrameNum[34122], LastFrame[34119]
+[2019-12-23 17:06:10:0548] | GigEVisionManager.cpp-L4571: throw frame from list[53], CurFrameNum[34124], LastFrame[34122]
+[2019-12-23 17:06:10:0788] | GigEVisionManager.cpp-L4571: throw frame from list[55], CurFrameNum[34127], LastFrame[34124]
+[2019-12-23 17:06:11:0123] | GigEVisionManager.cpp-L4571: throw frame from list[57], CurFrameNum[34131], LastFrame[34128]
+[2019-12-23 17:06:11:0214] | GigEVisionManager.cpp-L4571: throw frame from list[58], CurFrameNum[34133], LastFrame[34131]
+[2019-12-23 17:06:11:0460] | GigEVisionManager.cpp-L4571: throw frame from list[60], CurFrameNum[34136], LastFrame[34133]
+[2019-12-23 17:06:11:0804] | GigEVisionManager.cpp-L4571: throw frame from list[63], CurFrameNum[34141], LastFrame[34137]
+[2019-12-23 17:06:12:0147] | GigEVisionManager.cpp-L4571: throw frame from list[65], CurFrameNum[34145], LastFrame[34142]
+[2019-12-23 17:06:12:0235] | GigEVisionManager.cpp-L4571: throw frame from list[66], CurFrameNum[34147], LastFrame[34145]
+[2019-12-23 17:06:12:0492] | GigEVisionManager.cpp-L4571: throw frame from list[67], CurFrameNum[34150], LastFrame[34148]
+[2019-12-23 17:06:12:0818] | GigEVisionManager.cpp-L4571: throw frame from list[69], CurFrameNum[34154], LastFrame[34151]
+[2019-12-23 17:06:12:0910] | GigEVisionManager.cpp-L4571: throw frame from list[70], CurFrameNum[34156], LastFrame[34154]
+[2019-12-23 17:06:13:0161] | GigEVisionManager.cpp-L4571: throw frame from list[71], CurFrameNum[34159], LastFrame[34157]
+[2019-12-23 17:06:13:0496] | GigEVisionManager.cpp-L4571: throw frame from list[74], CurFrameNum[34164], LastFrame[34160]
+[2019-12-23 17:06:13:0830] | GigEVisionManager.cpp-L4571: throw frame from list[76], CurFrameNum[34168], LastFrame[34165]
+[2019-12-23 17:06:13:0925] | GigEVisionManager.cpp-L4571: throw frame from list[77], CurFrameNum[34170], LastFrame[34168]
+[2019-12-23 17:06:14:0154] | GigEVisionManager.cpp-L4571: throw frame from list[79], CurFrameNum[34173], LastFrame[34170]
+[2019-12-23 17:06:14:0478] | GigEVisionManager.cpp-L4571: throw frame from list[80], CurFrameNum[34177], LastFrame[34175]
+[2019-12-23 17:06:14:0819] | GigEVisionManager.cpp-L4571: throw frame from list[82], CurFrameNum[34182], LastFrame[34179]
+[2019-12-23 17:06:15:0139] | GigEVisionManager.cpp-L4571: throw frame from list[84], CurFrameNum[34186], LastFrame[34183]
+[2019-12-23 17:06:15:0493] | GigEVisionManager.cpp-L4571: throw frame from list[86], CurFrameNum[34191], LastFrame[34188]
+[2019-12-23 17:06:15:0832] | GigEVisionManager.cpp-L4571: throw frame from list[87], CurFrameNum[34195], LastFrame[34193]
+[2019-12-23 17:06:15:0929] | GigEVisionManager.cpp-L4571: throw frame from list[88], CurFrameNum[34197], LastFrame[34195]
+[2019-12-23 17:06:16:0178] | GigEVisionManager.cpp-L4571: throw frame from list[89], CurFrameNum[34200], LastFrame[34198]
+[2019-12-23 17:06:16:0526] | GigEVisionManager.cpp-L4571: throw frame from list[91], CurFrameNum[34205], LastFrame[34202]
+[2019-12-23 17:06:16:0900] | GigEVisionManager.cpp-L4571: throw frame from list[94], CurFrameNum[34210], LastFrame[34206]
+[2019-12-23 17:07:19:0086] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:07:19:0086] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:07:19:0086] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:19:0086] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:19:0086] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[63164], devIP[a9fe5400]
+[2019-12-23 17:07:19:0092] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:07:19:0093] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:07:19:0093] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:07:19:0094] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:07:19:0094] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:07:30:0136] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:07:30:0136] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:07:30:0137] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:30:0137] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:30:0137] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[63176], devIP[a9fe5400]
+[2019-12-23 17:07:30:0138] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:07:30:0138] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:30:0148] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:07:30:0362] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:07:30:0468] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[17836]
+[2019-12-23 17:07:30:0640] | GigEVisionManager.cpp-L4554: Lost Frame From Net[35103], Total Frame Count[35104], NetCount[1], CurBlock[35104], LastBlock[0]
+[2019-12-23 17:07:34:0026] | GigEVisionManager.cpp-L4571: throw frame from list[12], CurFrameNum[35149], LastFrame[35136]
+[2019-12-23 17:07:42:0041] | GigEVisionManager.cpp-L4571: throw frame from list[20], CurFrameNum[35258], LastFrame[35249]
+[2019-12-23 17:10:18:0736] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:10:18:0736] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:10:18:0736] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:10:18:0736] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:10:18:0736] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[55478], devIP[a9fe5400]
+[2019-12-23 17:10:18:0738] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:10:18:0738] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:10:18:0749] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:10:19:0051] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:10:19:0157] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[7492]
+[2019-12-23 17:10:19:0331] | GigEVisionManager.cpp-L4554: Lost Frame From Net[36165], Total Frame Count[36166], NetCount[1], CurBlock[36166], LastBlock[0]
+[2019-12-23 17:10:21:0754] | GigEVisionManager.cpp-L4571: throw frame from list[12], CurFrameNum[36198], LastFrame[36185]
+[2019-12-23 17:10:24:0083] | GigEVisionManager.cpp-L4571: throw frame from list[27], CurFrameNum[36230], LastFrame[36214]
+[2019-12-23 17:10:25:0735] | GigEVisionManager.cpp-L4571: throw frame from list[39], CurFrameNum[36253], LastFrame[36240]
+[2019-12-23 17:10:29:0750] | GigEVisionManager.cpp-L4571: throw frame from list[59], CurFrameNum[36307], LastFrame[36286]
+[2019-12-23 17:10:31:0536] | GigEVisionManager.cpp-L4571: throw frame from list[68], CurFrameNum[36331], LastFrame[36321]
+[2019-12-23 17:10:34:0686] | GigEVisionManager.cpp-L4571: throw frame from list[74], CurFrameNum[36374], LastFrame[36367]
+[2019-12-23 17:10:38:0609] | GigEVisionManager.cpp-L4571: throw frame from list[85], CurFrameNum[36428], LastFrame[36416]
+[2019-12-23 17:11:51:0232] | GigEVisionManager.cpp-L4571: throw frame from list[103], CurFrameNum[37415], LastFrame[37396]
+[2019-12-23 17:12:08:0530] | GigEVisionManager.cpp-L4571: throw frame from list[105], CurFrameNum[37650], LastFrame[37647]
+[2019-12-23 17:12:08:0699] | GigEVisionManager.cpp-L4571: throw frame from list[106], CurFrameNum[37652], LastFrame[37650]
+[2019-12-23 17:12:10:0671] | GigEVisionManager.cpp-L4571: throw frame from list[112], CurFrameNum[37679], LastFrame[37672]
+[2019-12-23 17:21:06:0415] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:21:06:0415] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:21:06:0415] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:06:0415] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:06:0415] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[58152], devIP[a9fe5400]
+[2019-12-23 17:21:06:0422] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:21:06:0423] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:21:06:0423] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:21:06:0425] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:21:06:0425] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:21:15:0413] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:21:15:0413] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:21:15:0413] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:15:0413] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:15:0413] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[58165], devIP[a9fe5400]
+[2019-12-23 17:21:15:0419] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:21:15:0421] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:21:15:0421] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:21:15:0422] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:21:15:0422] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:21:24:0632] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:21:24:0632] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:21:24:0632] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:24:0632] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:24:0632] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[58179], devIP[a9fe5400]
+[2019-12-23 17:21:24:0639] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:21:24:0640] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:21:24:0640] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:21:24:0641] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:21:24:0641] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:21:33:0609] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:21:33:0609] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:21:33:0609] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:33:0609] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:33:0609] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[58192], devIP[a9fe5400]
+[2019-12-23 17:21:33:0615] | GigEVisionManager.cpp-L0885: GVCP_GetAccessPrivilege [1][80000203]
+[2019-12-23 17:21:33:0616] | GigEVisionManager.cpp-L0739: connect device failed! [80000203]
+[2019-12-23 17:21:33:0616] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:21:33:0617] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-23 17:21:33:0617] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:21:49:0455] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:21:49:0455] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:21:49:0455] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:49:0455] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:49:0455] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[58205], devIP[a9fe5400]
+[2019-12-23 17:21:49:0457] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:21:49:0457] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:49:0468] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:21:49:0766] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:21:49:0875] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[17436]
+[2019-12-23 17:21:50:0049] | GigEVisionManager.cpp-L4554: Lost Frame From Net[41751], Total Frame Count[41752], NetCount[1], CurBlock[41752], LastBlock[0]
+[2019-12-23 17:21:54:0460] | GigEVisionManager.cpp-L4571: throw frame from list[1], CurFrameNum[41811], LastFrame[41809]
+[2019-12-23 17:22:29:0639] | GigEVisionManager.cpp-L4571: throw frame from list[4], CurFrameNum[42290], LastFrame[42286]
+[2019-12-23 17:22:38:0601] | GigEVisionManager.cpp-L4571: throw frame from list[6], CurFrameNum[42412], LastFrame[42409]
+[2019-12-23 17:23:06:0349] | GigEVisionManager.cpp-L4571: throw frame from list[13], CurFrameNum[42789], LastFrame[42781]
+[2019-12-23 17:24:34:0732] | GigEVisionManager.cpp-L2329: AppGetCount[2226], AppGetCountSucceed[2226], ExpectRecv[43990], NetRecv[2239], ThrowAbnormalImage[0], NetLostFrame[41751], ThrowInBufList[13], LostPackets[0]
+[2019-12-23 17:24:34:0816] | GigEVisionManager.cpp-L2329: AppGetCount[2226], AppGetCountSucceed[2226], ExpectRecv[43990], NetRecv[2239], ThrowAbnormalImage[0], NetLostFrame[41751], ThrowInBufList[13], LostPackets[0]
+[2019-12-23 17:24:34:0816] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:24:34:0816] | GigEVisionManager.cpp-L2728: SendRsdCmd thread stop
+[2019-12-23 17:24:34:0830] | GigEVisionManager.cpp-L2329: AppGetCount[2226], AppGetCountSucceed[2226], ExpectRecv[43990], NetRecv[2239], ThrowAbnormalImage[0], NetLostFrame[41751], ThrowInBufList[13], LostPackets[0]
+[2019-12-23 17:24:34:0832] | GigEVisionManager.cpp-L2861: event thread stop
+[2019-12-23 17:24:35:0996] |   GigEVisionGVSP.cpp-L0422: [socket] NearBID[0], LastBID[0], output[0]
+[2019-12-23 17:24:47:0112] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:24:47:0112] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:24:47:0112] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:24:47:0112] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:24:47:0112] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[57174], devIP[a9fe5400]
+[2019-12-23 17:24:47:0114] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:24:47:0114] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:24:47:0125] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:24:47:0423] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:24:47:0522] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[8704]
+[2019-12-23 17:25:10:0618] | GigEVisionManager.cpp-L4571: throw frame from list[1], CurFrameNum[312], LastFrame[310]
+[2019-12-23 17:25:11:0589] | GigEVisionManager.cpp-L2329: AppGetCount[322], AppGetCountSucceed[322], ExpectRecv[323], NetRecv[323], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[1], LostPackets[0]
+[2019-12-23 17:25:11:0622] | GigEVisionManager.cpp-L2329: AppGetCount[322], AppGetCountSucceed[322], ExpectRecv[323], NetRecv[323], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[1], LostPackets[0]
+[2019-12-23 17:25:11:0622] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:25:11:0622] | GigEVisionManager.cpp-L2728: SendRsdCmd thread stop
+[2019-12-23 17:25:11:0636] | GigEVisionManager.cpp-L2329: AppGetCount[322], AppGetCountSucceed[322], ExpectRecv[323], NetRecv[323], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[1], LostPackets[0]
+[2019-12-23 17:25:11:0671] | GigEVisionManager.cpp-L2861: event thread stop
+[2019-12-23 17:25:11:0716] |   GigEVisionGVSP.cpp-L0422: [socket] NearBID[0], LastBID[0], output[0]
+[2019-12-23 17:25:23:0840] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:25:23:0840] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:25:23:0841] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:23:0841] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:23:0841] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[54738], devIP[a9fe5400]
+[2019-12-23 17:25:23:0842] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:25:23:0842] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:23:0854] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:25:24:0157] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:24:0263] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[17744]
+[2019-12-23 17:25:33:0549] | GigEVisionManager.cpp-L2329: AppGetCount[122], AppGetCountSucceed[122], ExpectRecv[122], NetRecv[122], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:25:33:0660] | GigEVisionManager.cpp-L2329: AppGetCount[122], AppGetCountSucceed[122], ExpectRecv[122], NetRecv[122], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:25:33:0660] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:25:33:0660] | GigEVisionManager.cpp-L2728: SendRsdCmd thread stop
+[2019-12-23 17:25:33:0675] | GigEVisionManager.cpp-L2329: AppGetCount[122], AppGetCountSucceed[122], ExpectRecv[122], NetRecv[122], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:25:33:0715] | GigEVisionManager.cpp-L2861: event thread stop
+[2019-12-23 17:25:51:0790] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:25:51:0790] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:25:51:0790] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:51:0790] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:51:0790] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[54757], devIP[a9fe5400]
+[2019-12-23 17:25:51:0792] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:25:51:0792] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:51:0803] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:25:52:0116] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:25:52:0231] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[20228]
+[2019-12-23 17:26:10:0569] | GigEVisionManager.cpp-L2329: AppGetCount[245], AppGetCountSucceed[245], ExpectRecv[245], NetRecv[245], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:10:0692] | GigEVisionManager.cpp-L2329: AppGetCount[245], AppGetCountSucceed[245], ExpectRecv[245], NetRecv[245], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:10:0692] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:26:10:0692] | GigEVisionManager.cpp-L2728: SendRsdCmd thread stop
+[2019-12-23 17:26:10:0702] | GigEVisionManager.cpp-L2861: event thread stop
+[2019-12-23 17:26:10:0709] | GigEVisionManager.cpp-L2329: AppGetCount[245], AppGetCountSucceed[245], ExpectRecv[245], NetRecv[245], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:11:0580] |   GigEVisionGVSP.cpp-L0422: [socket] NearBID[0], LastBID[0], output[0]
+[2019-12-23 17:26:20:0124] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-23 17:26:20:0124] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-23 17:26:20:0124] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:26:20:0124] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:26:20:0124] | GigEVisionManager.cpp-L0821: connecting device ... hostIP[a9fe7b4f], hostPort[65340], devIP[a9fe5400]
+[2019-12-23 17:26:20:0126] | GigEVisionManager.cpp-L0572: m_nUpNetExport[a9fe7b4f], m_nUpDevIP[a9fe5400]
+[2019-12-23 17:26:20:0126] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:26:20:0137] | GigEVisionManager.cpp-L2790: event thread start...
+[2019-12-23 17:26:20:0435] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-23 17:26:20:0541] | GigEVisionManager.cpp-L2682: GigE SendRsdCmdThread Start, ThreadId[15596]
+[2019-12-23 17:26:32:0494] | GigEVisionManager.cpp-L2329: AppGetCount[158], AppGetCountSucceed[158], ExpectRecv[158], NetRecv[158], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:32:0552] | GigEVisionManager.cpp-L2329: AppGetCount[158], AppGetCountSucceed[158], ExpectRecv[158], NetRecv[158], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:32:0552] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-23 17:26:32:0552] | GigEVisionManager.cpp-L2728: SendRsdCmd thread stop
+[2019-12-23 17:26:32:0563] | GigEVisionManager.cpp-L2861: event thread stop
+[2019-12-23 17:26:32:0566] | GigEVisionManager.cpp-L2329: AppGetCount[158], AppGetCountSucceed[158], ExpectRecv[158], NetRecv[158], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
+[2019-12-23 17:26:32:0697] |   GigEVisionGVSP.cpp-L0422: [socket] NearBID[0], LastBID[0], output[0]
+[2019-12-26 13:59:21:0648] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-26 13:59:21:0648] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-26 13:59:21:0649] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-26 13:59:21:0649] | GigEVisionManager.cpp-L0797: gvcp connect device fail! SetConnect NetExport[a9fe7b4f], devIP[c0a85803]
+[2019-12-26 14:11:18:0328] | GigEVisionManager.cpp-L0272: driver mode start!
+[2019-12-26 14:11:18:0328] | GigEVisionManager.cpp-L0309: Driver Mode [1]
+[2019-12-26 14:11:18:0329] |           NetUDP.cpp-L0520: ReCreateSocket NewIp[0], SrcIP[a9fe7b4f]
+[2019-12-26 14:11:18:0329] | GigEVisionManager.cpp-L0797: gvcp connect device fail! SetConnect NetExport[a9fe7b4f], devIP[c0a85803]
+[2019-12-26 14:11:18:0332] | GigEVisionManager.cpp-L0739: connect device failed! [80000206]
+[2019-12-26 14:11:18:0332] | GigEVisionManager.cpp-L0901: disconnect device ...
+[2019-12-26 14:11:18:0336] | GigEVisionManager.cpp-L1876: SetAcquisitionStop Execute Fails Feature not present (reference not valid) : AccessException thrown (file 'NodeMapRef.h', line 416)
+[2019-12-26 14:11:18:0336] | GigEVisionManager.cpp-L2329: AppGetCount[0], AppGetCountSucceed[0], ExpectRecv[0], NetRecv[0], ThrowAbnormalImage[0], NetLostFrame[0], ThrowInBufList[0], LostPackets[0]
